@@ -1,13 +1,6 @@
-## Welcome to Brownbook
+## FRC1675 Onboarding and Yearly Info
 
-Brownbook is a repository of institutional knowledge gained by FRC 1675 that is preserved for future readers.
+Things to put in this repo
 
-
-### Categories
-* [Controls](controls/controls.md) - Controls systems and programming
-
-* [Mechanical](mechanical/mechanical-main.md) - Mechanical design and implementation
-
-
-### Contributing to brownbook
-* [Contributing](contributing/contributing-to-brownbook.md) - Processes and philosophy behind expanding brownbook
+* Onboarding for new members
+* Yearly info (travel rules, what to pack, what uniforms for comp? etc)
